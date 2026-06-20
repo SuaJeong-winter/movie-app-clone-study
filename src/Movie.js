@@ -1,12 +1,20 @@
 import React from "react";
 import PropTypes from "prop-types"; //Movie에 넘어와야 하는 영화 데이터를 정의하고 관리하기 위해.
 
-function Movie({ id, title, year, summary, poster }) {
-  return <h4>{title}</h4>;
+function Movie({ title, year, summary, poster }) {
+  return (
+    <div className="movie">
+      <img src={poster} alt={title} title={title} />
+      <div className="movie__data">
+        <h3 className="movie__title">{title}</h3>
+        <h5 className="movie__year">{year}</h5>
+        <p className="movie__summary">{summary}</p>
+      </div>
+    </div>
+  );
 }
 
 Movie.propTypes = {
-  id: PropTypes.number.isRequired,
   year: PropTypes.number.isRequired,
   title: PropTypes.string.isRequired,
   summary: PropTypes.string.isRequired,

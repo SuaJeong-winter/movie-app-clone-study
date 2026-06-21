@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SuaJeong-winter/movie-app-clone-study.git/static/css/main.235eafb0.css",
+    "main.js": "/SuaJeong-winter/movie-app-clone-study.git/static/js/main.21855e9e.js",
+    "index.html": "/SuaJeong-winter/movie-app-clone-study.git/index.html",
+    "main.235eafb0.css.map": "/SuaJeong-winter/movie-app-clone-study.git/static/css/main.235eafb0.css.map",
+    "main.21855e9e.js.map": "/SuaJeong-winter/movie-app-clone-study.git/static/js/main.21855e9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.235eafb0.css",
+    "static/js/main.21855e9e.js"
+  ]
+}

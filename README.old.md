@@ -42,10 +42,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
+- [노마드 코더](https://nomadcoders.co/react-for-beginners) - 책 참조
 
 ### What I learned
 
 - 리액트의 생명주기 함수
+- 리액트의 props, state 관리
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
@@ -79,20 +81,13 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [React docs](https://ko.legacy.reactjs.org/docs/getting-started.html) - 리액트의 생명주기 함수를 포함하여 필요한 메서드, 및 기억 안나는 개념 참고
 
 ### AI Collaboration
 
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
-
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)? ChatGPT, Github Copilot
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)? Debugging, Questioning etc.
-- What worked well? What didn't? It worked well as always
+- chatGPT와 github copilot을 사용해서 개발 진행했습니다.
+- debugging, brainstorming solutions, questioning을 목적으로 사용했습니다
 
 ## Author
 
 - Website - [정수아Jeong Sua](https://github.com/SuaJeong-winter)
-- Frontend Mentor - [@SuaJeong-winter](https://www.frontendmentor.io/profile/SuaJeong-winter)

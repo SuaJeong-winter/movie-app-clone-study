@@ -44,7 +44,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - 리액트의 생명주기 함수
 - 리액트의 props, state 관리
-- react-router-dom v5와 v6의 차이점
+- react-router-dom v5와 v6의 차이점 비교
+- 버전차이로 발생할 수 있는 상황에 대한 코드 리팩토링
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 

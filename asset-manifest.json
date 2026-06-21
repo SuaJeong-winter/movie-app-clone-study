@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SuaJeong-winter/movie-app-clone-study.git/static/css/main.235eafb0.css",
-    "main.js": "/SuaJeong-winter/movie-app-clone-study.git/static/js/main.21855e9e.js",
-    "index.html": "/SuaJeong-winter/movie-app-clone-study.git/index.html",
-    "main.235eafb0.css.map": "/SuaJeong-winter/movie-app-clone-study.git/static/css/main.235eafb0.css.map",
-    "main.21855e9e.js.map": "/SuaJeong-winter/movie-app-clone-study.git/static/js/main.21855e9e.js.map"
+    "main.css": "/movie-app-clone-study/static/css/main.235eafb0.css",
+    "main.js": "/movie-app-clone-study/static/js/main.21855e9e.js",
+    "index.html": "/movie-app-clone-study/index.html",
+    "main.235eafb0.css.map": "/movie-app-clone-study/static/css/main.235eafb0.css.map",
+    "main.21855e9e.js.map": "/movie-app-clone-study/static/js/main.21855e9e.js.map"
   },
   "entrypoints": [
     "static/css/main.235eafb0.css",

@@ -5,7 +5,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -15,8 +14,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Useful resources](#useful-resources)
   - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -34,7 +31,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -48,6 +44,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - 리액트의 생명주기 함수
 - 리액트의 props, state 관리
+- react-router-dom v5와 v6의 차이점
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 

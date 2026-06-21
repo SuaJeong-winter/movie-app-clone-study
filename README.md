@@ -20,7 +20,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://SuaJeong-winter.github.io/movie-app-clone-study)
 
 ## My process
 
